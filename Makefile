@@ -3,12 +3,13 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: marvin <marvin@student.42.fr>              +#+  +:+       +#+         #
+#    By: yasjimen <yasjimen@student.42madrid.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/12/16 19:54:30 by marvin            #+#    #+#              #
-#    Updated: 2024/12/16 19:54:30 by marvin           ###   ########.fr        #
+#    Created: 2024/12/17 18:38:28 by yasjimen          #+#    #+#              #
+#    Updated: 2024/12/17 18:38:28 by yasjimen         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
 
 NAME        = pipex
 CC          = cc
